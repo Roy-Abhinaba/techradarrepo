@@ -1,0 +1,72 @@
+name,quadrant,ring,isNew,description
+Microsoft Teams - O365,Tools,Contained,TRUE,"Microsoft Teams is cloud-based team collaboration software that is part of the Office 365 suite of applications. The core capabilities in Microsoft Teams include business messaging, calling, video meetings and file sharing
+<Microsoft teams is currently being used in limited fashion. Security policies / controls are being built to open up for enterprise. >"
+Azure DevOps Wiki for Documentation,Tools,Contained,TRUE,this is a sample
+AWS API Gateway,Platforms,Contained,TRUE,<CONTAINED to ELIZa only>
+Azure Containers,Platforms,Contained,TRUE,
+IBM Infosphere Change Data Capture ,Tools,Contained,TRUE,this is a sample
+Jenkins for CI/CD ,Tools,Contained,TRUE,this is a sample
+O365 (One Drive),Tools,Contained,TRUE,this is a sample
+O365 (SharePoint Online),Tools,Contained,TRUE,this is a sample
+O365 (Office Professional Plus),Tools,Contained,TRUE,this is a sample
+Azure Key Vault,Tools,Contained,TRUE,this is a sample
+Vertica Database,Tools,Contained,TRUE,this is a sample
+Dockers,Platforms,Emerging,FALSE,"Docker is an open source software platform to create, deploy and manage virtualized application containers on a common operating system (OS), with an ecosystem of allied tools. "
+Serverless,Platforms,Emerging,FALSE,"Serverless computing is a computing execution model in which the provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity"
+Test Driven Development,Techniques,Emerging,FALSE,"
+Test-Driven Development (TDD) is a philosophy and practice that recommends building and executing tests before implementing the code or a component of a system. By validating them against a series of agreed-to tests, TDD—an Agile Testing practice—improves system outcomes by assuring that the system implementation meets its requirements. "
+Behavior Driven Development (BDD),Techniques,Emerging,FALSE,"Behavior Driven Development (BDD) is a Test-First, Agile Testing practice that provides Built-In Quality by defining (and potentially automating) tests before, or as part of, specifying system behavior.  BDD is a collaborative process that creates a shared understanding of requirements between the business and the Development Team. Its goal is to help guide development, decrease rework, and increase flow. Without focusing on internal implementation, BDD tests are business-facing scenarios that attempt to describe the behavior of a Story, Feature, or Capability from a user’s perspective. When automated, these tests ensure that the system continuously meets the specified behavior even as the system evolves. That, in turn, enables Release on Demand. Automated BDD tests can also serve as the definitive statement regarding the as-built system behavior, replacing other forms of behavioral specifications."
+Neo4j,Platforms,Emerging,FALSE,
+Containers,Techniques,Emerging,FALSE,this is a sample
+SAFE,Languages or Frameworks,Emerging,FALSE,this is a sample
+Kotlin,Languages or Frameworks,Emerging,FALSE,this is a sample
+Pivotal Cloud Foundry,Platforms,Emerging,FALSE,this is a sample
+Flask,Languages or Frameworks,Emerging,FALSE,this is a sample
+PAXATA,Tools,Retired,this is a sample,this is a sample
+Informatica Data Quality,Tools,Standard,this is a sample,this is a sample
+Ansible,Tools,Standard,this is a sample,this is a sample
+Terraform,Tools,Standard,this is a sample,this is a sample
+Tableau,Tools,Standard,this is a sample,
+Automated CI/CD,Techniques,Standard,this is a sample,"1. Established pattern in RA
+2. Implemented pipelines
+3. Defined patterns / implemenetation recipes for teams to adopt"
+Azure DevOps,Tools,Standard,this is a sample,this is a sample
+Veracode for SAST,Tools,Standard,this is a sample,this is a sample
+SonarQube for Continuous code Quality ,Tools,Standard,this is a sample,this is a sample
+Burpsuite for DAST,Tools,Standard,this is a sample,this is a sample
+Microsoft Thread modelling,Tools,Standard,this is a sample,this is a sample
+Spring,Languages or Frameworks,Standard,this is a sample,this is a sample
+Springboot,Languages or Frameworks,Standard,this is a sample,this is a sample
+Kubernetes,Platforms,Trial,this is a sample,Kubernetes is a container orchestration system that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner
+GitHub Actions,Platforms,Trial,this is a sample,this is a sample
+Webex Toolkit - Introduction of AI to our meeting rooms.,Tools,Trial,this is a sample,"To simpllify our end-users experience when having meetings. 
+For example, when we walk into a room, the WebEx room kit can identify us via a device we carry with us  When it recognizes you and see that you have a meeting in that room, WebEx will ask you if you want to start your meeting. No more buttons to push."
+Relatient for Secure Messaging,Platforms,Trial,this is a sample,What is relatient??  We need a secure messaging platform to promote patient adherence
+GitHub for Documentation,Tools,Trial,this is a sample,<limit description to Documentation use case> /what it is ? Where would u use it? 
+CardioLog - Web Analytics,Tools,Trial,this is a sample,this is a sample
+Web Trends - WebAnalytics,Tools,Trial,,The tool will be used to provide web analytics from the BUZZ home page as well as other key intranet sites in BUZZ. The analytics data will help our Marketing target the right content to provide to users.unable to use Google Analytics as  it has limitations with regard to how it can represent metrics data based on how URL are created in SharePoint (BUZZ)
+VITESS,Platforms,Trial,this is a sample,"Vitess is a database solution for deploying, scaling and managing large clusters of MySQL instances. It’s architected to run as effectively in a public or private cloud architecture as it does on dedicated hardware. It combines and extends many important MySQL features with the scalability of a NoSQL database. Vitess can help you with the following problems:
+
+Scaling a MySQL database by allowing you to shard it, while keeping application changes to a minimum.
+Migrating from baremetal to a private or public cloud.
+Deploying and managing a large number of MySQL instances."
+Service Mesh,Platforms,Trial,this is a sample,
+IBM Eligibility blockchain,Techniques,Trial,this is a sample,"1. IBM Eligibility blockchain POCd recently
+Action item: Reggie to provide POC findings to host in EA site & loop back with user on findings"
+Alteryx as Data Prep,Tools,Trial,this is a sample,"Alteryx as Data Prep tool for Analytics - Trial  / Tool
+1. it allows self service / light weight tool for analysts who are not technologically driven 
+2. Implemented pipelines"
+Graph Databases,Techniques,Trial,this is a sample,"1. Existing PI Portal using Neo4j
+2. Emerging match based use cases
+3. Defined patterns / implemenetation recipes for teams to adopt"
+Real time MFT data exchange. ,Platforms,Trial,this is a sample,1. Continuous innovation in existing platform
+Internal stackoverflow.com,Platforms,Trial,this is a sample,"1. will bring knowledge sharing
+2. can be reused from stackoverflow cloud to  internal domain"
+SyTrue,Platforms,Trial,this is a sample,"PI LOB intends to use SyTrue as a platform in order to target claims and associated records to load into data store and make it available in a standard digital format. Currently, the medical records are considered unstructured data and come in as paper. SyTrue is thereby expected to boost productivity by reducing manual work and increasing accuracy. "
+Decisions for BWE,Platforms,Trial,this is a sample,this is a sample
+DataCatalog,Techniques,Trial,this is a sample,this is a sample
+Rsocket as an application protocol,Platforms,Trial,this is a sample,this is a sample
+Virtual Development Environments,Platforms,Trial,this is a sample,this is a sample
+Consul,Tools,Trial,this is a sample,Service discovery/ service registration
+Edge Computing,Techniques,Trial,this is a sample,this is a sample
+DataRobot,Tools,Trial,this is a sample,this is a sample
